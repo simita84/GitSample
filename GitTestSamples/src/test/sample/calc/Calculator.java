@@ -15,6 +15,11 @@ public class Calculator {
 	public Calculator() {
 		// TODO Auto-generated constructor stub
 	}
+	//Developer 1
+	public double add(double a,double b){
+		double sum = a+b;
+		return sum;
+	}
 
 	/**
 	 * @param args
