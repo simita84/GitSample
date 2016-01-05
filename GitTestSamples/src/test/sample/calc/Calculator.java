@@ -32,4 +32,9 @@ public class Calculator {
     public String sayHello(){
         return "hello Welcome To SourceTree";
     }
+    
+    //Code for the branch
+    public String newBranchCode(){
+        return "  Welcome To new branch";
+    }
 }
