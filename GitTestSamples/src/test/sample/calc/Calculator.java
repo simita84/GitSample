@@ -28,5 +28,8 @@ public class Calculator {
 		// TODO Auto-generated method stub
 
 	}
-
+    
+    public String sayHello(){
+        return "hello Welcome To SourceTree";
+    }
 }
